@@ -10,8 +10,8 @@ print (nrows)
 num = 0
 for i in range(nrows):
     # print(sheet.cell(0,0).value)
-    externalid = sheet.cell(i,0).value#获取i行3列的表格值
-    url = sheet.cell(i,1).value#获取i行4列的表格值
+    externalid = sheet.cell(i,0).value#获取i行1列的表格值
+    url = sheet.cell(i,1).value#获取i行2列的表格值333
     # url="http://develop.kingchannels.cn:50053/files/upload/210/2107527420931db85fd20c6da6eecd9f-475898.jpg"
     new_url = url
     d='D:\\B\\'

@@ -31,7 +31,7 @@ while 1:
     else:
         print(m.count(re.compile(m,'%d')))
 
-#2123123123
+#21231231233333
 #
 # while 1:
 #     num = 0
