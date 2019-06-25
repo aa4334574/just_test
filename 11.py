@@ -1,5 +1,5 @@
 # n = 9
-#
+#2222222
 # for i in (range(1,n+1)):
 #     for j in (range(1,n+1)):
 #         if j<=i:
@@ -31,7 +31,7 @@ while 1:
     else:
         print(m.count(re.compile(m,'%d')))
 
-#
+#2123123123
 #
 # while 1:
 #     num = 0
